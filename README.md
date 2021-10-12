@@ -1,2 +1,3 @@
 # class-is-beginning
 work hard to improve myself
+easy to say but ...
